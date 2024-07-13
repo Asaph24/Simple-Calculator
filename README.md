@@ -4,4 +4,4 @@ I was just doing a class and had to do a calculator with some buttons in JS, did
 
 I'll add more functions later.
 
-# https://asaph24.github.io/Simple-Calculator/
+## https://asaph24.github.io/Simple-Calculator/
